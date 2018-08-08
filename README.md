@@ -5,3 +5,5 @@ This project is about building a real-time object detection application that can
 * Tensorflow Object Detection API
 * OpenCV
 * Real-time image processing
+### Complete Blog on computer Vision problems
+https://vishnuvardhan1028.wixsite.com/website/single-post/2018/07/24/Recognition-of-Traffic-signs-using-Convolutional-Neural-Networks
